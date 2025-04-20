@@ -36,16 +36,3 @@ I'm a self-taught developer with a strong foundation in frontend development and
 - I enjoy both artistic expression and logical problem-solving
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HawaJeme&show_icons=true&theme=default&hide_title=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HawaJeme&theme=default" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HawaJeme&layout=compact&theme=default" />
-</p>
-
-<!-- You can customize the theme to match your vibe: "radical", "dark", "gruvbox", etc. -->
-
