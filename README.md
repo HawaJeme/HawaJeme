@@ -35,4 +35,3 @@ I'm a self-taught developer with a strong foundation in frontend development and
 - I’m a cinephile and read niche Substacks in my downtime
 - I enjoy both artistic expression and logical problem-solving
 
----
