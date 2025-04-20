@@ -19,7 +19,7 @@ I'm a self-taught developer with a strong foundation in frontend development and
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Racket](https://img.shields.io/badge/-Racket-BSL-blue?style=flat)
+![Racket BSL](https://img.shields.io/badge/Racket-BSL-blue?style=flat)
 
 ---
 
